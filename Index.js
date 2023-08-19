@@ -1,5 +1,5 @@
 export default function Testing() {
   <>
-    <h1>Testing</h1>
+    <h1>Cute ni Kimo</h1>
   </>;
 }
